@@ -1,0 +1,13 @@
+Data and documentation created for this study are licensed under the Creative
+Commons Attribution 4.0 International License (CC BY 4.0).
+Full legal code: https://creativecommons.org/licenses/by/4.0/legalcode
+
+Covered: data/coding_sheet.csv, data/coding_sheet_BLANK.csv,
+data/label_inventory.csv, data/openfda_search_results.csv, the coding and
+flag columns of data/fda_letters_scan.csv and data/fda_review_excerpts.csv,
+docs/, and fig/.
+
+Not covered: third-party text reproduced for verification, namely label text
+(data/labels_extracted.json, data/section7_text.csv, data/label_full_text/),
+excerpts of FDA documents within the CSV files above, and the FDA documents in
+sources/fda/. This content remains subject to the terms of its source.

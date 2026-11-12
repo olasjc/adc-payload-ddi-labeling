@@ -1,0 +1,16 @@
+brand,nonproprietary_name,labeler,dailymed_set_id,spl_version,version_date,initial_us_approval,section7_present
+ADCETRIS,brentuximab vedotin,SEAGEN INC.,3904f8dd-1aef-3490-e48f-bd55f32ed67f,38,"Nov 17, 2025",2011,yes
+PADCEV,enfortumab vedotin,SEAGEN INC.,b5631d3e-4604-4363-8f20-11dfc5a4a8ed,18,"Aug 17, 2026",2019,yes
+POLIVY,polatuzumab vedotin,"Genentech, Inc.",20a16ab2-f338-4abb-9dcd-254bd949a2bc,15,"Aug 28, 2026",2019,yes
+TIVDAK,tisotumab vedotin,SEAGEN INC.,c9fe3f32-4219-466e-acb9-3f609b4f4df1,11,"Oct 26, 2026",2021,yes
+EMRELIS,telisotuzumab vedotin,AbbVie Inc.,bc04f980-3957-4e35-ab81-8ec2ffe87215,3,"Jul 10, 2025",2025,yes
+BLENREP,belantamab mafodotin,GlaxoSmithKline LLC,aef7c34c-fef8-407c-99c0-a68aded53c60,2,"Oct 06, 2026",2020,no
+KADCYLA,ado-trastuzumab emtansine,"Genentech, Inc.",23f3c1f4-0fc8-4804-a9e3-04cf25dd302e,35,"Apr 03, 2026",2013,yes
+ELAHERE,mirvetuximab soravtansine,"ImmunoGen, Inc.",00c424b5-6ccd-48ab-9e88-1986451120e2,14,"Feb 16, 2026",2022,yes
+ENHERTU,fam-trastuzumab deruxtecan,Daiichi Sankyo Inc.,7e67e73e-ddf4-4e4d-8b50-09d7514910b6,28,"May 28, 2026",2019,no
+DATROWAY,datopotamab deruxtecan,Daiichi Sankyo Inc.,2950227c-6230-4ca4-a135-46e44d9424a0,18,"Jun 03, 2026",2025,no
+TRODELVY,sacituzumab govitecan,"Gilead Sciences, Inc.",57a597d2-03f0-472e-b148-016d7169169d,20,"Jun 29, 2026",2020,yes
+ZYNLONTA,loncastuximab tesirine,"ADC Therapeutics America, Inc.",af54af12-3edf-4301-8bc5-0446bc813c1d,15,"Jun 17, 2026",2021,no
+DECNUPAZ,pivekimab sunirine,AbbVie Inc.,508b6ff8-601d-4901-a7a5-816141134054,2,"Jun 01, 2026",2026,yes
+BESPONSA,inotuzumab ozogamicin,"Wyeth Pharmaceuticals LLC, a subsidiary of Pfizer Inc.",cc7014b1-c775-411d-b374-8113248b4077,8,"Feb 09, 2026",2017,yes
+MYLOTARG,gemtuzumab ozogamicin,"Wyeth Pharmaceuticals LLC, a subsidiary of Pfizer Inc.",32fd2bb2-1cfa-4250-feb8-d7956c794e05,19,"Dec 22, 2025",2000,no

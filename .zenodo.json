@@ -1,0 +1,26 @@
+{
+  "title": "Payload-level drug interaction labeling of antibody-drug conjugates: data and code",
+  "upload_type": "dataset",
+  "description": "<p>Data and code for a cross-sectional analysis of drug interaction guidance in the US prescribing information of the 15 FDA-approved antibody-drug conjugates with current labeling. For each label, the study coded where payload interaction liabilities appear (Section 12.3 versus Section 7), the evidence behind Section 7 guidance, and consistency among products that share a payload, and examined FDA approval letters and reviews for the regulatory basis of selected recommendations. Labels were retrieved from DailyMed on November 12, 2026.</p><p>Contents: retrieval, extraction, figure, regulatory-record, and agreement scripts (Python); the coding sheet and codebook; extracted and full label text; FDA letter scan and cited review pages; figures.</p><p>Licenses: code under the MIT License; data and documentation created for this study under CC BY 4.0. Third-party label text and FDA documents are included for verification and are not covered by these licenses.</p>",
+  "creators": [
+    {
+      "name": "Li, Ryan",
+      "affiliation": "St. John's University College of Pharmacy and Health Sciences"
+    },
+    {
+      "name": "Chen, Zhe-Sheng",
+      "affiliation": "St. John's University College of Pharmacy and Health Sciences"
+    }
+  ],
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "antibody-drug conjugates",
+    "drug interactions",
+    "drug labeling",
+    "prescribing information",
+    "pharmacokinetics",
+    "CYP3A",
+    "P-glycoprotein"
+  ]
+}

@@ -1,0 +1,1 @@
+Review files contain only the cited pages; page numbers in the manuscript and in index.csv refer to the original PDFs at original_url (extracted files are renumbered from 1). Approval letters are complete. All 89 letters searched are listed with URLs in data/fda_letters_scan.csv.

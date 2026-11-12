@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use these data or code, please cite them using the metadata below."
+title: "Payload-level drug interaction labeling of antibody-drug conjugates: data and code"
+type: dataset
+version: 1.0.1
+date-released: 2026-11-12
+doi: 10.5281/zenodo.24174267
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.24174267
+    description: "Concept DOI (all versions)"
+  - type: doi
+    value: 10.5281/zenodo.24174501
+    description: "Version 1.0.1"
+  - type: doi
+    value: 10.5281/zenodo.24174268
+    description: "Version 1.0.0"
+authors:
+  - family-names: Li
+    given-names: Ryan
+    affiliation: "St. John's University College of Pharmacy and Health Sciences"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  # Add co-authors here in manuscript author order, e.g.:
+  # - family-names: Surname
+  #   given-names: Given
+  #   affiliation: "Institution"
+  - family-names: Chen
+    given-names: Zhe-Sheng
+    affiliation: "St. John's University College of Pharmacy and Health Sciences"
+    email: chenz@stjohns.edu
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+repository-code: "https://github.com/olasjc/adc-payload-ddi-labeling"
+license:
+  - MIT
+  - CC-BY-4.0
+abstract: "Data and code for a cross-sectional analysis of drug interaction guidance in the US prescribing information of the 15 FDA-approved antibody-drug conjugates, coding where payload interaction liabilities appear (Section 12.3 versus Section 7), the evidence behind Section 7 guidance, and consistency among products sharing a payload. Labels were retrieved from DailyMed on November 12, 2026."
+keywords:
+  - antibody-drug conjugates
+  - drug interactions
+  - drug labeling
+  - prescribing information
+  - pharmacokinetics
+  - CYP3A
+  - P-glycoprotein
